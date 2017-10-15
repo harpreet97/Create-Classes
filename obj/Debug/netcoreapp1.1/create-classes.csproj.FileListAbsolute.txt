@@ -1,0 +1,8 @@
+C:\Users\Owner\desktop\create-classes\bin\Debug\netcoreapp1.1\create-classes.deps.json
+C:\Users\Owner\desktop\create-classes\bin\Debug\netcoreapp1.1\create-classes.runtimeconfig.json
+C:\Users\Owner\desktop\create-classes\bin\Debug\netcoreapp1.1\create-classes.runtimeconfig.dev.json
+C:\Users\Owner\desktop\create-classes\bin\Debug\netcoreapp1.1\create-classes.dll
+C:\Users\Owner\desktop\create-classes\bin\Debug\netcoreapp1.1\create-classes.pdb
+C:\Users\Owner\desktop\create-classes\obj\Debug\netcoreapp1.1\create-classes.AssemblyInfo.cs
+C:\Users\Owner\desktop\create-classes\obj\Debug\netcoreapp1.1\create-classes.dll
+C:\Users\Owner\desktop\create-classes\obj\Debug\netcoreapp1.1\create-classes.pdb
